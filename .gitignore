@@ -1,0 +1,13 @@
+# Arduino
+*.elf
+*.hex
+*.bin
+*.lock
+build/
+.pio/
+lib/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
